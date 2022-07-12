@@ -1,2 +1,2 @@
 # Relógio Temático
-https://github.com/alexsilvabello/relogio
+https://alexsilvabello.github.io/relogio/
