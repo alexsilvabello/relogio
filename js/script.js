@@ -27,7 +27,7 @@ function setTime() {
     const day = time.getDay();
     const date = time.getDate();
     const hour = time.getHours();
-    const hoursForClock = hour % 12;
+    const hoursForClock = hour % 24;
     const minute = time.getMinutes();
     const second = time.getSeconds();
     const ampm = hour >= 12 ? 'PM' : 'AM';
